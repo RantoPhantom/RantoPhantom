@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+A linux user and Vtuber watcher :D
+ - Currently learning GO and building some projects to learn some technologies
+ - using Fedora 40 btw
+ - neovim user btw :D
+ - a terminal terminal user btw...
 <!--
 **RantoPhantom/RantoPhantom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
