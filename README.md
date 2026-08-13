@@ -16,6 +16,8 @@ If there is something that I'm interested in, I'm probably gonna be busy trying 
 # AI usage when coding:
 I generally don't let the AI take the reigns but I also recognize it as a great tool to learn with given that I'm careful with how I use it. So I generally come up with the ideas to do the thing first and then I ask it to refute and poke holes in my ideas to help me learn where I lack and could improve while not letting the AI come up with the idea first to also make me think more about problems and take the situation into my own hands.
 
+# Working with/making an AI model:
+I have hands-on experience with making and training a handmade CNN model with PyTorch, in my class I was the top of class for making the best CNN facial detection model (no base model) with the least amount of training time, since I know the ways to optimize the training data feed cycle and that brought the training time from 24hr median down to just 1hr. So yes, while I'm not majoring in AI, I can confidently say that I can learn it and make decent progress despite not being my major.  
 <!--
 **RantoPhantom/RantoPhantom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
